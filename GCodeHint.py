@@ -20,7 +20,7 @@
 """
 
 __author__ = 'zhichao,wang'
-__email__ = 'ziccowarn@camtek.de'
+__email__ = 'zhichao.wang@camtek.de'
 __url__ = 'http://www.camtek.de/'
 __version__ = '0.1'
 __license__ = 'Apache License Version 2'
