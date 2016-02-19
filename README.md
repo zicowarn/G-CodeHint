@@ -8,7 +8,7 @@ If the shortcut keys is pressed, on the status bar of sublime text 2 will show t
 
 Installation and Usage:
 
-1. Download the sublime plagin with following url:
+1. Download the sublime plugin with following url:
 
  https://github.com/zicowarn/G-CodeHint.git
  
