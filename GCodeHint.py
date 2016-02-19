@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # Apache License Version 2
-# Copyright [2016] Zhichao Wang and Cmatek GmbH
+# Copyright [2016] Zhichao Wang and Camtek GmbH
 
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -25,8 +25,8 @@ __url__ = 'http://www.camtek.de/'
 __version__ = '0.1'
 __license__ = 'Apache License Version 2'
 __status__ = 'Beta'
-__revision__ = '$Rev: 03 $'
-__date__ = '2016-02-18 12:32:11'
+__revision__ = '$Rev: 04 $'
+__date__ = '2016-02-19 15:39:11'
 
 
 import sublime, sublime_plugin
@@ -36,7 +36,7 @@ class ExampleCommand(sublime_plugin.TextCommand):
     """
     """
 
-    TAG = "===> Description of CN-Code : "
+    TAG = "  Description: >> "
 
     def run(self, edit):
         """
